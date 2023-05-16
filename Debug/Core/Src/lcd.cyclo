@@ -1,0 +1,8 @@
+lcd.c:3:6:Ecrire	5
+lcd.c:25:6:toggle_e	1
+lcd.c:37:6:D_set_E_Toggle	1
+lcd.c:47:6:EcrireFonction	1
+lcd.c:70:6:EcrireCaractere	1
+lcd.c:89:6:EcrireChaine	2
+lcd.c:95:6:lcdinit4	1
+lcd.c:157:6:Affichage_LCD	1
